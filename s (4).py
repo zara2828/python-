@@ -8,7 +8,7 @@ import webbrowser
 import os
 
 # الرابط الخاص بقناتك
-channel_url = "https://t.me/+s4uq0aXzbhdiYWE0"
+channel_url = "https://t.me/kac80666"
 
 def start_tool():
     print("جاري تشغيل الأداة... انتظر لحظة.")
